@@ -2,7 +2,7 @@ package snakes;
 
 import snakes.squares.*;
 
-import java.util.*;
+
 
 /**
  * Representation of a single instance of a Snakes & Ladders game.
