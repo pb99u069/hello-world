@@ -1,4 +1,4 @@
-package snakes;
+
 
 import snakes.squares.*;
 
