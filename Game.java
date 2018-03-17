@@ -96,7 +96,7 @@ public class Game {
 	}
 
 	public boolean isOver() {
-		return !this.notOver();
+		return this.notOver();
 	}
 
 	/**
